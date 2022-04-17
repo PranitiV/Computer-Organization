@@ -6,6 +6,6 @@ Lab4: Using Interrupts with Assembly Language Code \
 Lab5: Introduction to Graphics and Animation\
 Lab7: A Simple Processor\
 Lab8: An Enhanced Processor \
-Final Project: Open Software Project, a game (Balloon Pop) \
+Final Project: Open Software Project, a game (Balloon Pop) 
 
 
